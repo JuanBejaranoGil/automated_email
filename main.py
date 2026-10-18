@@ -37,9 +37,7 @@
 #             msg=f"Subject:Happy Birthday!\n\n{contents}"
 #         )
 
-import requests
 import os
-from twilio.rest import Client
 
 MY_LAT = 49.280704 # Your latitude
 MY_LONG = -122.796441 # Your longitude
