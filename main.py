@@ -38,6 +38,8 @@
 #         )
 
 import os
+import requests
+import twilio
 
 MY_LAT = 49.280704 # Your latitude
 MY_LONG = -122.796441 # Your longitude
